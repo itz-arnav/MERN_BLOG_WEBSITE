@@ -1,3 +1,3 @@
-BACKEND LINK :
+BACKEND LINK : https://github.com/itz-arnav/MERN_BLOG_BACKEND
 
-FRONTEND LINK : 
+FRONTEND LINK : https://github.com/itz-arnav/MERN_BLOG_FRONTEND
